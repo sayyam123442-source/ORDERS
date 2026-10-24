@@ -1,0 +1,32 @@
+{
+  "id": "vishwas-order-book",
+  "name": "Vishwas Jewellers Order Book",
+  "short_name": "VJ Orders",
+  "description": "Order book for Vishwas Jewellers",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1E0028",
+  "theme_color": "#1E0028",
+  "icons": [
+    {
+      "src": "order-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "order-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "order-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
